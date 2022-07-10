@@ -1,5 +1,16 @@
 # NewYorkTimes-telegramBOT
+
+
+
+* Telegram Channel : https://t.me/NYT_LiveUpdate 
+ 
+ ---
+
 Naive bot that check latest news on new york times journal and send them to a telegram channel (actually now just to my bot, I'm still testing and imporving it since there are a few behaviour that i dont' like --a few problems in live pages news). The goal is to create a telegram channel wtth this NYT news (just for fun, no profit) , simple, easy and interesting to keep everyone interested informed (maybe someone a lazy as me . ANYWAY THIS DESCRIPTION IS TOO LONG, I WILL EXPLAIN BETTER IN THE NEXT DAYS (+ i will also push the code for the bot, later also for the channel... see you later 😊
+
+# Update 10 July 2022
+
+ > The channel is still in test phase (actually the bot..). In within a week it will be fully working (live 24/7). Updates will follow, also based on users opinions   (gather by polls). 
 
 # Update 29 June 2022
 Attention : the instant preview option is only abvailable per smartphone users, it isn't implemented for the pc version of telegram...
