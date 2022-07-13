@@ -10,6 +10,13 @@ Naive bot that check latest news on new york times journal and send them to a te
 
 # Update 10 July 2022
 
+THE CHANNEL IS ON !! Channel (bot) is working 24/7. Still in beta version, but very close to its final. 
+Suggestions are appreciated. 
+
+>(Remeber the bot is thought for mobile telegram user, since it allows the instant preview to read "for free" all the sent articles. Is still usable from desktop but you wouldnt see anything except the link. would you like a channel like the original with image + title + abstract ?? Let me kwow. )
+
+# Update 13 July 2022
+
  > The channel is still in test phase (actually the bot..). In within a week it will be fully working (live 24/7). Updates will follow, also based on users opinions   (gather by polls). 
 
 # Update 29 June 2022
