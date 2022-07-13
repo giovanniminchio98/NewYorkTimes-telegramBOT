@@ -8,14 +8,14 @@
 
 Naive bot that check latest news on new york times journal and send them to a telegram channel (actually now just to my bot, I'm still testing and imporving it since there are a few behaviour that i dont' like --a few problems in live pages news). The goal is to create a telegram channel wtth this NYT news (just for fun, no profit) , simple, easy and interesting to keep everyone interested informed (maybe someone a lazy as me . ANYWAY THIS DESCRIPTION IS TOO LONG, I WILL EXPLAIN BETTER IN THE NEXT DAYS (+ i will also push the code for the bot, later also for the channel... see you later 😊
 
-# Update 10 July 2022
+# Update 13 July 2022
 
 THE CHANNEL IS ON !! Channel (bot) is working 24/7. Still in beta version, but very close to its final. 
 Suggestions are appreciated. 
 
 >(Remeber the bot is thought for mobile telegram user, since it allows the instant preview to read "for free" all the sent articles. Is still usable from desktop but you wouldnt see anything except the link. would you like a channel like the original with image + title + abstract ?? Let me kwow. )
 
-# Update 13 July 2022
+# Update 10 July 2022
 
  > The channel is still in test phase (actually the bot..). In within a week it will be fully working (live 24/7). Updates will follow, also based on users opinions   (gather by polls). 
 
